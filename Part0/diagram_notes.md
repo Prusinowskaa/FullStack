@@ -30,3 +30,4 @@ diagramStronaNotes
     activate server
     server-->>browser: the HTML code(404 bład Not Found)
     deactivate server
+    h5g235y
