@@ -30,6 +30,6 @@ sequenceDiagram
         browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
         activate server
         server-->>browser: the HTML code(404 bład Not Found)
-        deactivate server
+        deactivate server   
 ```
  
